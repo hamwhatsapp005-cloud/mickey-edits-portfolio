@@ -275,15 +275,3 @@ nav a:hover {
   object-fit: cover;
   border: 2px solid white;
 }
-.logo {
-  text-align: center;
-  margin-bottom: 10px;
-}
-
-.logo img {
-  width: 60px;   /* slightly bigger since it's above */
-  height: 60px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid white;
-}
